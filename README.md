@@ -1,4 +1,4 @@
-# Hotdog or not hotdog app
+# "Hotdog or not hotdog" app
 
 App developed for the article:
 
