@@ -37,7 +37,7 @@ export default class App extends React.Component {
   }
 
   /**
-   * Shots a photo and checks whether it is a hotdog or not.
+   * Take a photo and checks whether it is a hotdog or not.
    */
   onCameraPress = async camera => {
     if (this.state.isUploading) {
